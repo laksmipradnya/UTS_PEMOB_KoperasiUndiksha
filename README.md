@@ -15,3 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# Tugas_pertemuan_3" 
+
+![App] (assets/screnshoot1.png)
+![App] (assets/screnshoot2.png)
