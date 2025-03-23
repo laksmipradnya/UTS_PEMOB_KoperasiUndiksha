@@ -16,6 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 "# Tugas_pertemuan_3" 
 
-![App](assets/screnshoot1.png)
-![App](assets/screnshoot2.png)
+![App](assets/screenshot1.png)
+![App](assets/screenshot2.png)
 
